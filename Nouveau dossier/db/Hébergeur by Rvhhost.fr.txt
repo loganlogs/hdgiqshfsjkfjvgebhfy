@@ -1,0 +1,3 @@
+{"endpoint": "127.0.0.1:1234", "id": 5, "identifiers": ["license:9f329647de079617dc9054feaa215c6c82ce07a6", "discord:597373915953627136", "license2:5ddc824a62c9765d6a3c50593459780a628ba0ae"], "name": "WEEZY", "ping": 57}
+{"endpoint": "127.0.0.1:1234", "id": 3, "identifiers": ["steam:110000162c5d2e8", "license:c62e4e6c0bcb8d48e09978d37d429c1d78dd2546", "discord:1023337024876449808", "license2:ee93bf92e229c3a786be4c73378fe713534a9d4f"], "name": "[C-F]bnx13k", "ping": 56}
+{"endpoint": "127.0.0.1:1234", "id": 2, "identifiers": ["license:73ba628c3f8e7d4dcc72626abca57b2dc1812e7f", "discord:1243635129016909888", "fivem:12179500", "license2:73ba628c3f8e7d4dcc72626abca57b2dc1812e7f"], "name": "[OFF-III-408]nolan vlado", "ping": 51}
